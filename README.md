@@ -28,3 +28,9 @@ I started on **12/09/2026**. My goal is to work, starting with a SOC Analyst / S
 - [ ] SQL Injection
 
 ## 📁 Repo structure
+cybersecurity-journey/
+```text
+├── level-1-getting-started/
+├── level-2-tooling/
+├── ctfs/
+└── notes/
