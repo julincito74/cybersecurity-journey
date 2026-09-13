@@ -1,5 +1,12 @@
-# cybersecurity-journey
-I started on date 12/9/2026
-
-- [x] Day 1: Installed WSL2 + completed Linux Fundamentals Part 1
-- [ ] Day 2: Learn file permissions and users
+cybersecurity-journey/
+├── README.md                    ← overview + progress checklist
+├── level-1-getting-started/
+│   ├── intro-to-offensive-security.md
+│   ├── intro-to-defensive-security.md
+│   ├── experience-cyber-security.md
+│   ├── search-skills.md
+│   └── linux-fundamentals-1.md
+├── level-2-tooling/
+├── ctfs/
+└── notes/
+    └── words-i-didnt-know.md
